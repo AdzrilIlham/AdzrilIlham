@@ -76,13 +76,13 @@ console.log("Mari berkolaborasi! 💻🎯");
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdzrilIlham&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=88D66C&icon_color=FFB84D&text_color=73C5C5&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AdzrilIlham&theme=dark&hide_border=true&background=0d1117&stroke=88D66C&ring=FFB84D&fire=FF6B6B&currStreakLabel=73C5C5&sideLabels=73C5C5&dates=73C5C5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdzrilIlham&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=88D66C&icon_color=FFB84D&text_color=73C5C5&count_private=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdzrilIlham&theme=dark&hide_border=true&background=1a1b27&stroke=88D66C&ring=FFB84D&fire=FF6B6B&currStreakLabel=73C5C5&border_radius=10" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdzrilIlham&theme=dark&hide_border=true&bg_color=0d1117&title_color=88D66C&text_color=73C5C5&layout=compact&langs_count=6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AdzrilIlham&theme=dark&hide_border=true&bg_color=0d1117&title_color=88D66C&text_color=73C5C5&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdzrilIlham&theme=dark&hide_border=true&bg_color=1a1b27&title_color=88D66C&text_color=73C5C5&layout=compact&langs_count=8&border_radius=10" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdzrilIlham&theme=github_dark&utcOffset=7" alt="Productive Time" />
 </div>
 
 <!-- Contribution Graph -->
