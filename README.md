@@ -163,13 +163,11 @@ class AdzrilIlham extends Developer {
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/AdzrilIlham/AdzrilIlham/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <sub>💡 Tip: Visit <a href="https://platane.github.io/snk/">platane.github.io/snk</a> to generate your own snake animation!</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
