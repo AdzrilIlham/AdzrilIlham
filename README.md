@@ -3,7 +3,7 @@
   <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=ADZRIL%20ILHAM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Crafting%20Digital%20Experiences%20|%20Full%20Stack%20Artisan&descAlignY=55&descSize=18" width="100%"/>
 
-  <!-- Typing Animation dengan Multiple Lines -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+Digital+Space!;Full+Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
@@ -19,7 +19,7 @@
 
 <br/>
 
-<!-- About Me Section with Gradient -->
+<!-- About Me Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
@@ -81,14 +81,13 @@ class AdzrilIlham extends Developer {
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AdzrilIlham&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AdzrilIlham&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -97,13 +96,13 @@ class AdzrilIlham extends Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdzrilIlham&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdzrilIlham&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdzrilIlham&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdzrilIlham&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact&langs_count=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AdzrilIlham&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdzrilIlham&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdzrilIlham&theme=radical" alt="Productive Time" />
 </div>
 
 <!-- Contribution Graph -->
@@ -113,7 +112,6 @@ class AdzrilIlham extends Developer {
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💻 Tech Stack & Tools
@@ -125,23 +123,30 @@ class AdzrilIlham extends Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔥 Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💾 Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📚 Programming Languages
@@ -153,7 +158,6 @@ class AdzrilIlham extends Developer {
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🐍 Watch My Contributions Get Eaten!
@@ -166,16 +170,18 @@ class AdzrilIlham extends Developer {
   </picture>
 </div>
 
+> **Note:** Snake animation requires GitHub Action workflow. [Setup instructions here](https://github.com/Platane/snk)
+
 ---
 
-## 📈 Contribution Stats
+## 📈 Detailed Contribution Stats
 
 <div align="center">
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdzrilIlham&theme=radical" alt="Profile Details">
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdzrilIlham&theme=radical" alt="Profile Details" width="100%">
     </td>
   </tr>
   <tr>
@@ -200,24 +206,7 @@ class AdzrilIlham extends Developer {
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AdzrilIlham/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdzrilIlham&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-
-<a href="https://github.com/AdzrilIlham/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdzrilIlham&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-
-</div>
-
----
 
 ## 💭 Developer Quote of the Day
 
@@ -229,7 +218,6 @@ class AdzrilIlham extends Developer {
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Connect With Me
@@ -240,16 +228,9 @@ class AdzrilIlham extends Developer {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdzrilIlham)
 
 </div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -257,6 +238,23 @@ class AdzrilIlham extends Developer {
 
 <div align="center">
 
+```javascript
+const currentGoals = {
+  learning: ["Cloud Architecture", "Microservices", "CI/CD"],
+  building: ["E-commerce Platform", "API Gateway", "Developer Tools"],
+  exploring: ["Kubernetes", "GraphQL", "Serverless Architecture"]
+};
 
+console.log("Always learning, always building! 🚀");
+```
 
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+  
+  **⭐ From [AdzrilIlham](https://github.com/AdzrilIlham) | Made with ❤️ and ☕**
 </div>
