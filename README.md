@@ -27,7 +27,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tentang Saya
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 ```javascript
 const adzril = {
@@ -56,7 +55,7 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 ### 💬 Mari Ngobrol!
 
-**Tanya saya tentang:** Laravel • Python • Web Development • API Design • Database  
+**Tanya saya tentang:** Laravel • Python • Web Development •  Database  
 **Kolaborasi:** Selalu terbuka untuk project menarik dan diskusi teknologi!  
 **Motto:** *"Kode yang baik adalah kode yang mudah dipahami, bukan yang terlihat pintar"*
 
@@ -78,12 +77,12 @@ console.log("Mari berkolaborasi! 💻🎯");
   
 </div>
 
-### 💻 Tech Arsenal
+### 💻 Tech 
 
 **Frontend:** HTML5 • CSS3 • JavaScript • Tailwind • Bootstrap  
-**Backend:** Laravel • Django • Flask • RESTful APIs  
-**Database:** MySQL • PostgreSQL • MongoDB • Redis  
-**DevOps:** Docker • Git • GitHub Actions • Vercel  
+**Backend:** Laravel  
+**Database:** MySQL 
+**DevOps:** Git • GitHub Actions • Vercel  
 
 ### 🎯 Current Mission
 
