@@ -210,24 +210,6 @@ Contributing more to **Open Source** and mastering **Cloud Architecture** in 202
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const currentGoals = {
-  learning: ["Cloud Architecture", "Microservices", "CI/CD"],
-  building: ["E-commerce Platform", "API Gateway", "Developer Tools"],
-  exploring: ["Kubernetes", "GraphQL", "Serverless Architecture"]
-};
-
-console.log("Always learning, always building! 🚀");
-```
-
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
