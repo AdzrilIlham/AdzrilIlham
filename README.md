@@ -1,27 +1,23 @@
 <div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2C6F,30:88D66C,60:73C5C5,100:FF6B6B&height=200&section=header&text=ADZRIL%20ILHAM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Crafting%20Digital%20Experiences%20|%20Full%20Stack%20Artisan&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2C6F,30:88D66C,60:73C5C5,100:FF6B6B&height=200&section=header&text=ADZRIL%20ILHAM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Crafting%20Digital%20Experiences%20|%20Full%20Stack%20Artisan&descAlignY=55&descSize=18" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=AdzrilIlham&label=Profile%20Views&color=5B2C6F&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AdzrilIlham?label=Followers&style=for-the-badge&color=88D66C" alt="followers" />
-<img src="https://img.shields.io/github/stars/AdzrilIlham?label=Stars&style=for-the-badge&color=FFB84D" alt="stars" />
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=88D66C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+Digital+Space!;Full+Stack+Developer+%7C+Tech+Enthusiast;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=AdzrilIlham&label=Profile%20Views&color=5B2C6F&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AdzrilIlham?label=Followers&style=for-the-badge&color=88D66C" alt="followers" />
+  <img src="https://img.shields.io/github/stars/AdzrilIlham?label=Stars&style=for-the-badge&color=FFB84D" alt="stars" />
 
 </div>
 
 <br/>
-
----
 
 <!-- About Me Section -->
 <div align="center">
