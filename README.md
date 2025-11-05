@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+<h2>📊 Github Stats</h2> 
+
+<a href="https://github.com/AdzrilIlham/github-readme-stats">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdzrilIlham&layout=compact&theme=tokyonight" />
+</a>
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdzrilIlham&theme=tokyonight" alt="AdzrilIlham" />
+
+<br/>
+
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
