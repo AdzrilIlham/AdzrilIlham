@@ -26,58 +26,39 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-```typescript
-class AdzrilIlham extends Developer {
-  constructor() {
-    super();
-    this.name = "Adzril Ilham";
-    this.location = "🇮🇩 Bandung, West Java, Indonesia";
-    this.role = "Full Stack Developer";
-    this.languages = ["JavaScript", "PHP", "Python", "C++"];
-  }
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-  get workingOn(): string[] {
-    return [
-      "🔭 Building scalable web applications",
-      "🌱 Exploring microservices architecture",
-      "💡 Contributing to open source"
-    ];
-  }
+### 👨‍💻 Who Am I?
 
-  get skills(): TechStack {
-    return {
-      frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind", "Bootstrap"],
-      backend: ["Laravel", "Django", "Flask", "RESTful APIs"],
-      database: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-      devOps: ["Docker", "Git", "GitHub Actions", "Vercel"],
-      tools: ["VS Code", "Postman", "Figma", "Prettier"]
-    };
-  }
+**Full Stack Developer** passionate about building elegant solutions to complex problems. Based in **Bandung, Indonesia** 🇮🇩, I turn ideas into reality through clean, efficient code.
 
-  get motto(): string {
-    return "Code is poetry written in logic 🎨✨";
-  }
+### 🚀 What I Do
 
-  dailyRoutine(): void {
-    while (alive) {
-      eat();
-      sleep();
-      code();
-      repeat();
-    }
-  }
-}
-```
+- 🔭 Building **scalable web applications** with modern frameworks
+- 🌱 Exploring **microservices architecture** and cloud technologies  
+- 💡 Contributing to **open source** projects
+- 📚 Constantly learning and adapting to new technologies
 
-<div align="center">
-  
-  **💬 Ask me about:** `Laravel` `Python` `Web Development` `APIs` `Database Design`
-  
-  **⚡ Fun fact:** I can debug faster with `console.log()` than with actual debuggers! 😄
-  
-  **🎯 2025 Goals:** Contribute more to Open Source & Master Cloud Architecture ☁️
-  
-</div>
+### 💻 Tech Arsenal
+
+**Frontend:** HTML5 • CSS3 • JavaScript • Tailwind • Bootstrap  
+**Backend:** Laravel • Django • Flask • RESTful APIs  
+**Database:** MySQL • PostgreSQL • MongoDB • Redis  
+**DevOps:** Docker • Git • GitHub Actions • Vercel  
+
+### 🎯 Current Mission
+
+> "Code is poetry written in logic" 🎨✨
+
+Contributing more to **Open Source** and mastering **Cloud Architecture** in 2025!
+
+### ⚡ Quick Facts
+
+💬 Ask me about: **Laravel**, **Python**, **Web Development**, **APIs**, **Database Design**  
+🐛 Fun fact: I can debug faster with `console.log()` than with actual debuggers!  
+📫 Always open to collaboration and interesting projects
+
+<br clear="both"/>
 
 ---
 
@@ -129,22 +110,30 @@ class AdzrilIlham extends Developer {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💾 Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📚 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -224,6 +213,23 @@ class AdzrilIlham extends Developer {
 
 ---
 
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const currentGoals = {
+  learning: ["Cloud Architecture", "Microservices", "CI/CD"],
+  building: ["E-commerce Platform", "API Gateway", "Developer Tools"],
+  exploring: ["Kubernetes", "GraphQL", "Serverless Architecture"]
+};
+
+console.log("Always learning, always building! 🚀");
+```
+
+</div>
+
+---
 
 <!-- Footer -->
 <div align="center">
