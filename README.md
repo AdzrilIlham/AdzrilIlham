@@ -20,24 +20,63 @@
 <br/>
 
 <!-- About Me Section -->
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tentang Saya
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
-### 👨‍💻 Who Am I?
+```javascript
+const adzril = {
+  role: "Full Stack Developer",
+  location: "Bandung, Indonesia 🇮🇩",
+  passion: "Membangun solusi digital yang elegan",
+  
+  techStack: {
+    frontend: ["HTML", "CSS", "JavaScript", "Tailwind"],
+    backend: ["Laravel", "Django", "Flask"],
+    database: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Docker", "Git", "Postman"]
+  },
+  
+  currentFocus: [
+    "🏗️ Arsitektur Microservices",
+    "☁️ Cloud Technologies", 
+    "🚀 Open Source Contributions"
+  ],
+  
+  funFact: "Kode terbaik ditulis di tengah malam ☕✨"
+};
 
-**Full Stack Developer** passionate about building elegant solutions to complex problems. Based in **Bandung, Indonesia** 🇮🇩, I turn ideas into reality through clean, efficient code.
+console.log("Mari berkolaborasi! 💻🎯");
+```
 
-### 🚀 What I Do
+### 💬 Mari Ngobrol!
 
-- 🔭 Building **scalable web applications** with modern frameworks
-- 🌱 Exploring **microservices architecture** and cloud technologies  
-- 💡 Contributing to **open source** projects
-- 📚 Constantly learning and adapting to new technologies
+**Tanya saya tentang:** Laravel • Python • Web Development • API Design • Database  
+**Kolaborasi:** Selalu terbuka untuk project menarik dan diskusi teknologi!  
+**Motto:** *"Kode yang baik adalah kode yang mudah dipahami, bukan yang terlihat pintar"*
+
+<br clear="both"/>
+
+---
+
+<div align="center">
+  
+  ### 🎯 Sedang Dikerjakan
+  
+  <table>
+    <tr>
+      <td align="center">🔧<br/><b>E-commerce Platform</b></td>
+      <td align="center">🌐<br/><b>API Gateway</b></td>
+      <td align="center">🛠️<br/><b>Developer Tools</b></td>
+    </tr>
+  </table>
+  
+</div>
 
 ### 💻 Tech Arsenal
 
