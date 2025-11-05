@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23282C34?style=flat-square&logo=laravel)
 ![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/-C++-%23282C34?style=flat-square&logo=C++&logoColor=00FFFF)
 
 
 
