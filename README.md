@@ -18,3 +18,6 @@
 
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![AdzrilIlham github stats](https://github-readme-stats.vercel.app/api?username=AdzrilIlham&show_icons=true&theme=dracula)
