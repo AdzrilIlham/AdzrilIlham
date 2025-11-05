@@ -9,9 +9,6 @@
 
 <div align="center">
 
-<!-- Typing animation (demo link) -->
-<a href="https://git.io/typing-svg">
-</a>
 
 <br/>
 
