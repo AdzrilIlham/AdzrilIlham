@@ -20,7 +20,6 @@
 <br/>
 
 <!-- About Me Section -->
-<!-- About Me Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
@@ -63,19 +62,6 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 ---
 
-<div align="center">
-  
-  ### 🎯 Sedang Dikerjakan
-  
-  <table>
-    <tr>
-      <td align="center">🔧<br/><b>E-commerce Platform</b></td>
-      <td align="center">🌐<br/><b>API Gateway</b></td>
-      <td align="center">🛠️<br/><b>Developer Tools</b></td>
-    </tr>
-  </table>
-  
-</div>
 
 ### 💻 Tech 
 
@@ -89,14 +75,6 @@ console.log("Mari berkolaborasi! 💻🎯");
 > "Code is poetry written in logic" 🎨✨
 
 Contributing more to **Open Source** and mastering **Cloud Architecture** in 2025!
-
-### ⚡ Quick Facts
-
-💬 Ask me about: **Laravel**, **Python**, **Web Development**, **APIs**, **Database Design**  
-🐛 Fun fact: I can debug faster with `console.log()` than with actual debuggers!  
-📫 Always open to collaboration and interesting projects
-
-<br clear="both"/>
 
 ---
 
@@ -148,30 +126,22 @@ Contributing more to **Open Source** and mastering **Cloud Architecture** in 202
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💾 Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📚 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -179,17 +149,6 @@ Contributing more to **Open Source** and mastering **Cloud Architecture** in 202
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 ## 📈 Detailed Contribution Stats
 
