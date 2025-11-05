@@ -182,7 +182,7 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://.com/adzlhr](https://www.linkedin.com/in/adzril-ilham-ramadhan-b37855327/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-73C5C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adzril-ilham-ramadhan)
 [![Instagram](https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adzlhrn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5B2C6F?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-FFB84D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adzril774@gmail.com)
