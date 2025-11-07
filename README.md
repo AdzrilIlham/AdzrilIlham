@@ -182,10 +182,10 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-73C5C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-73C5C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adzril-ilham-ramadhan-b37855327/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adzlhrn/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5B2C6F?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-FFB84D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-FFB84D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adzril774@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-88D66C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AdzrilIlham)
 
 </div>
