@@ -34,7 +34,7 @@ const adzril = {
   
   techStack: {
     frontend: ["HTML", "CSS", "JavaScript", "Tailwind"],
-    backend: ["Laravel"],
+    backend: ["Laravel", "PHP"],
     database: ["MySQL"],
     tools: ["Git", "GitHub Actions", "Vercel"]
   },
@@ -42,8 +42,15 @@ const adzril = {
   currentFocus: [
     "🏗️ Arsitektur Microservices",
     "☁️ Cloud Technologies", 
-    "🚀 Open Source Contributions"
+    "🚀 Open Source Contributions",
+    "⚛️ React & Modern Frontend"
   ],
+  
+  lifePhilosophy: {
+    code: "Clean, Readable, Maintainable",
+    coffee: "Strong & Black ☕",
+    music: "Lo-fi beats while coding 🎵"
+  },
   
   funFact: "Kode terbaik ditulis di tengah malam ☕✨"
 };
@@ -53,11 +60,145 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 ### 💬 Mari Ngobrol!
 
-**Tanya saya tentang:** Laravel • Python • Web Development • Database  
+**Tanya saya tentang:** Laravel • Python • Web Development • Database Design  
 **Kolaborasi:** Selalu terbuka untuk project menarik dan diskusi teknologi!  
 **Motto:** *"Kode yang baik adalah kode yang mudah dipahami, bukan yang terlihat pintar"*
 
 <br clear="both"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌟 Project Showcase 1</h3>
+<div align="center">  
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="200" alt="project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://img.shields.io/badge/Code-5B2C6F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-88D66C?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>Laravel • MySQL • TailwindCSS</strong></p>
+<p>🚀 Sistem manajemen dengan fitur real-time dan dashboard interaktif</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🎨 Project Showcase 2</h3>
+<div align="center">  
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="200" alt="project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://img.shields.io/badge/Code-5B2C6F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-88D66C?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+<p><strong>PHP • JavaScript • Bootstrap</strong></p>
+<p>💼 Web aplikasi dengan sistem authentication dan role management</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">⚡ Project Showcase 3</h3>
+<div align="center">  
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200" alt="project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://img.shields.io/badge/Code-5B2C6F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Demo-FFB84D?style=for-the-badge&logo=python&logoColor=black"/>
+</a>
+</p>
+<p><strong>Python • Data Analysis</strong></p>
+<p>📊 Tool automation dan data processing dengan Python</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🔥 Project Showcase 4</h3>
+<div align="center">  
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200" alt="project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/AdzrilIlham" target="_blank">
+<img src="https://img.shields.io/badge/Code-5B2C6F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live-73C5C5?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+</p>
+<p><strong>JavaScript • HTML • CSS</strong></p>
+<p>🎯 Interactive web components dengan vanilla JavaScript</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌱 Currently Learning
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br><strong>React</strong>
+      <br><sub>Building modern UIs</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br><strong>Docker</strong>
+      <br><sub>Containerization</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br><strong>AWS</strong>
+      <br><sub>Cloud Services</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br><strong>Node.js</strong>
+      <br><sub>Backend JS</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+      <br><sub>NoSQL Database</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -88,6 +229,17 @@ console.log("Mari berkolaborasi! 💻🎯");
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdzrilIlham&custom_title=Grafik%20Kontribusi%20Adzril&bg_color=1a1b27&color=73C5C5&line=88D66C&point=FF6B6B&area_color=88D66C&area=true&hide_border=true&radius=10" width="98%">
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdzrilIlham/AdzrilIlham/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -132,6 +284,26 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📊 Skill Levels
+
+<div align="center">
+
+| Skill | Level | Progress |
+|-------|-------|----------|
+| **Laravel** | Advanced | ![90%](https://progress-bar.dev/90?title=90%&width=200&color=88D66C) |
+| **PHP** | Advanced | ![85%](https://progress-bar.dev/85?title=85%&width=200&color=5B2C6F) |
+| **JavaScript** | Intermediate | ![80%](https://progress-bar.dev/80?title=80%&width=200&color=FFB84D) |
+| **MySQL** | Advanced | ![85%](https://progress-bar.dev/85?title=85%&width=200&color=73C5C5) |
+| **TailwindCSS** | Intermediate | ![75%](https://progress-bar.dev/75?title=75%&width=200&color=FF6B6B) |
+| **Python** | Intermediate | ![70%](https://progress-bar.dev/70?title=70%&width=200&color=88D66C) |
+| **Git** | Advanced | ![85%](https://progress-bar.dev/85?title=85%&width=200&color=FFB84D) |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 📈 Detailed Contribution Stats
 
 <div align="center">
@@ -166,11 +338,35 @@ console.log("Mari berkolaborasi! 💻🎯");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 😄 Dev Humor Time
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=88D66C&aColor=73C5C5&bgColor=1a1b27)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 💭 Developer Quote of the Day
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=73C5C5&author_color=88D66C&bg_color=1a1b27)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-adzrililham.vercel.app/api/spotify?background_color=1a1b27&border_color=88D66C)](https://open.spotify.com/user/31k6txredmongv5bsth6472wqhdi)
 
 </div>
 
@@ -188,13 +384,56 @@ console.log("Mari berkolaborasi! 💻🎯");
 [![Email](https://img.shields.io/badge/Email-FFB84D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:adzril774@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-88D66C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AdzrilIlham)
 
+<br/>
+
+### 📧 Email Me for Collaboration
+```
+adzril774@gmail.com
+```
+
+### 💬 Let's Build Something Amazing Together!
+
+> **"Kopi + Kode = Solusi Digital"** ☕💻
+>
+> *Available for freelance projects and full-time opportunities*
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ☕ Support My Work
+
+<div align="center">
+
+Jika kamu merasa terbantu dengan project-project saya atau ingin mendukung development open source:
+
+<a href="https://www.buymeacoffee.com/adzrililham">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB84D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/adzrililham">
+  <img src="https://img.shields.io/badge/Ko--fi-FF6B6B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+**Every cup of coffee fuels more code! ☕✨**
+
 </div>
 
 ---
 
 <!-- Footer -->
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2C6F,30:88D66C,60:73C5C5,100:FF6B6B&height=120&section=footer" width="100%"/>
   
-  **⭐ From [AdzrilIlham](https://github.com/AdzrilIlham) | Made with ❤️ and ☕**
+  <br/>
+  
+  ### 🌟 Thanks for visiting! Don't forget to ⭐ some repositories!
+  
+  **Made with ❤️ and lots of ☕ by [Adzril Ilham](https://github.com/AdzrilIlham)**
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  
 </div>
