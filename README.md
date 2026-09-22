@@ -30,10 +30,10 @@ Saya percaya bahwa kode yang baik tidak harus kompleks, tetapi harus **jelas, te
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
-| **Cleanwash** | Aplikasi pemesanan layanan laundry yang dikembangkan secara kolaboratif dalam tim. | In Development |
-| **Smart Parking Management System** | Aplikasi Desktop Manajemen Parkir Menggunakan Java Swing & MySQL | In Development |
-| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
+| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | Completed |
+| **Cleanwash** | Aplikasi pemesanan layanan laundry yang dikembangkan secara kolaboratif dalam tim. | Completed |
+| **Smart Parking Management System** | Aplikasi Desktop Manajemen Parkir Menggunakan Java Swing & MySQL | Completed |
+| **LaporJurnal** | Platform Verifikasi & Pelaporan Integritas Jurnal Ilmiah. | Completed |
 
 ---
 
