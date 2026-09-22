@@ -32,6 +32,8 @@ Saya percaya bahwa kode yang baik tidak harus kompleks, tetapi harus **jelas, te
 |:---|:---|:---:|
 | **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
 | **Cleanwash** | Aplikasi pemesanan layanan laundry yang dikembangkan secara kolaboratif dalam tim. | In Development |
+| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
+| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
 
 ---
 
