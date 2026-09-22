@@ -32,7 +32,7 @@ Saya percaya bahwa kode yang baik tidak harus kompleks, tetapi harus **jelas, te
 |:---|:---|:---:|
 | **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
 | **Cleanwash** | Aplikasi pemesanan layanan laundry yang dikembangkan secara kolaboratif dalam tim. | In Development |
-| **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
+| **Smart Parking Management System** | Aplikasi Desktop Manajemen Parkir Menggunakan Java Swing & MySQL | In Development |
 | **ToDoo** | Aplikasi manajemen tugas untuk mengembangkan kemampuan full-stack development. | In Development |
 
 ---
